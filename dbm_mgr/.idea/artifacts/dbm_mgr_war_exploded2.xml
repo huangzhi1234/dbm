@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="dbm_mgr:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/dbm_mgr_war_exploded2</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="dbm_mgr/web/Web" />
+    </root>
+  </artifact>
+</component>
